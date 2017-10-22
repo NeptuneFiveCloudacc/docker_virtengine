@@ -1,5 +1,5 @@
 ```
-To create a Image for Vertice , Nsqd, verticegateway
+To create a Image for VirtEngine, VirtEngineGateway , NSQD.
 
 ```
 
